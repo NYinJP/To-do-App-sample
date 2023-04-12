@@ -10,9 +10,8 @@ Todo App 깃허브 레포지토리 연습용입니다.
 
 ## Contributors
 
-- FE: 김코딩
 - BE: 이난영
-
+![KakaoTalk_20230411_143854037](https://user-images.githubusercontent.com/105438919/231340701-35c55757-2adf-427e-91d6-d4845a5ce3da.png)
 
 
 ## Project Wiki
